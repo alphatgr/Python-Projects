@@ -1,5 +1,5 @@
 print("Welcome to the Calculator 1.0. \n")
-print("You can pick any of the choices specified below \n")
+print("You can pick any of the choices specified below: \n")
 print("For Addition:  + \n")
 print("For Subtraction:  - \n")
 print("For Multiplication:  * \n")
