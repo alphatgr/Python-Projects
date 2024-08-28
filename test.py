@@ -5,4 +5,4 @@ print("World")
 
 print("Printing using \nChatGPT")
 
-print("Testing this statement")
+print("Testing this statement", "A new line added")
